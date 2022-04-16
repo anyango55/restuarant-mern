@@ -1,0 +1,11 @@
+{
+  "name": "restuarant",
+  "version": "1.0.0",
+  "description": "reatuarant application in MERN",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cynthia Anyango",
+  "license": "MIT"
+}
